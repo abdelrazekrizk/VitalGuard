@@ -46,10 +46,10 @@ _The inspiration for VitalGuard came from the challenges faced by healthcare fac
 - **Azure IoT Hub**
 - **Azure SQL Database**
 - **Azure OpenAI Services**
-- **React** (Frontend Dashboard)
+- **React** (Frontend Dashboard) [Future Enhancements]
 - **Power BI** (Data Visualization)
-- **Node.js** (Backend APIs)
--
+- **Node.js** (Backend APIs) [Future Enhancements]
+
 Installation Guide
 1.	Clone the Repository:
 ~~~
